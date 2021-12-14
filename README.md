@@ -20,4 +20,5 @@ For the 10027 ZIP code, there were 21470 total incidents of which 5.20% were rel
 Thus the proportion of illegal parking incidents is more overall than illegal parking incidents in the 10027 ZIP code.
 
 
-Group members: Akshat Agarwal - aa4820 and Sophia Nikhar - sn2949
+Group members: 
+Akshat Agarwal - aa4820 and Sophia Nikhar - sn2949
